@@ -1,4 +1,4 @@
-# Robot Search App
+# RobotFriends App
 
 This is a simple React application that allows users to search through a list of robots. It features an interactive search field where users can filter robots by name. The project demonstrates key React concepts like component structure, state management, and dynamic filtering based on user input.
 
